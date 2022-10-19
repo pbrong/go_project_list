@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4955d753-b714-4e4f-ac55-0a7900fdac94" name="Default Changelist" comment="">
+    <list default="true" id="4955d753-b714-4e4f-ac55-0a7900fdac94" name="Default Changelist" comment="x/sync">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache2go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_source_code/cache2go/cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/project_source_code/cache2go/cache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_source_code/cache2go/cachetable.go" beforeDir="false" afterPath="$PROJECT_DIR$/project_source_code/cache2go/cachetable.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_source_code/cache2go/examples/callbacks/callbacks.go" beforeDir="false" afterPath="$PROJECT_DIR$/project_source_code/cache2go/examples/callbacks/callbacks.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +19,7 @@
   </component>
   <component name="GOROOT" url="file:///usr/local/Cellar/go/1.13.3/libexec" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project_source_code/cache2go" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2GGGAufepfcgjLMgor07a0K2Znn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -104,8 +101,22 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/cache2go" />
     </ignored-roots>
+    <MESSAGE value="cache2go learn" />
+    <MESSAGE value="x/sync" />
+    <option name="LAST_COMMIT_MESSAGE" value="x/sync" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/project_source_code/cache2go/cachetable.go</url>
+          <line>324</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
