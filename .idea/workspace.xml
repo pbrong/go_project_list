@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4955d753-b714-4e4f-ac55-0a7900fdac94" name="Default Changelist" comment="x/sync">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
       <recent name="$PROJECT_DIR$/project_source_code" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build test/project_test/cache2go_test">
+  <component name="RunManager" selected="Go Build.go build test/test_code/functional">
     <configuration name="go build github.com/muesli/cache2go/examples/callbacks" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_project_list" />
       <working_directory value="$PROJECT_DIR$/project_source_code/cache2go" />
@@ -73,8 +72,18 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build test/test_code/functional" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_project_list" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/test_code/functional/main.go" />
+      <package value="test/test_code/functional" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build test/test_code/functional" />
         <item itemvalue="Go Build.go build test/project_test/cache2go_test" />
         <item itemvalue="Go Build.go build github.com/muesli/cache2go/examples/callbacks" />
         <item itemvalue="Go Build.go build go_project_list/test/cache2go_test" />
